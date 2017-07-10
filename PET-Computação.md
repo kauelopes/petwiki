@@ -6,7 +6,7 @@ Nesse wiki teremos tanto uma parte de descrição de cada membro para como uma d
 
 Ideias para serem implementadas
 
-*guia do petomçs
-*guia sobre a sala do pet
-*eventos do pet
-*frentes do pet
+* guia do petomçs
+* guia sobre a sala do pet
+* eventos do pet
+* frentes do pet
