@@ -2,9 +2,9 @@
 # Configuration sample file for Jingo (YAML)
 application:
   title: PetWiki
-  logo: ''
+  logo: './pet2.png'
   favicon: ''
-  repository: ''
+  repository: './'
   docSubdir: ''
   remote: ''
   pushInterval: 30
@@ -39,7 +39,7 @@ authentication:
     enabled: true
     accounts:
       - username: 'kaue'
-        passwordHash: 'kaue1345'
+        passwordHash: '3aac157f2f2b212c4595afc50ddee13e37957f21'
         email: 'kauelopesmoraes22@gmail.com'
 features:
   markitup: false
@@ -58,7 +58,7 @@ authorization:
   validMatches: .+
   emptyEmailMatches: false
 pages:
-  index: Home
+  index: PET-Wiki
   title:
     fromFilename: true
     fromContent: false
