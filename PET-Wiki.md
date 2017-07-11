@@ -2,11 +2,17 @@ Esse é o repositório onde documentamos como ocorrem as atividades dentro do PE
 Antes de editar qualquer coisa leia o nosso [[tutorial|comofas]]
 
 ## Índice
+* [[Home|PET Wiki]]
+* [[Quadro de Avisos]]
 * [[Challenge]]
 * [[Idosos]]
 * [[Codifique]]
-* [[Membros]]
+* [[Codifique Kids]]
 * [[Horários dos projetos]]
+* [[Histórias]]
+* [[Sala do PET]]
+* [[Membros]]
+* [[Cronograma do semestre]]
 * [[Como Usar o Wiki|comofas]]
 
 
