@@ -4,7 +4,7 @@ application:
   title: PetWiki
   logo: './pet2.png'
   favicon: ''
-  repository: './'
+  repository: ''
   docSubdir: ''
   remote: ''
   pushInterval: 30
@@ -48,7 +48,7 @@ features:
 server:
   hostname: localhost
   port: 6067
-  localOnly: true
+  localOnly: false
   baseUrl: ''
   CORS:
     enabled: false
