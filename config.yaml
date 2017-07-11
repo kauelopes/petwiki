@@ -54,7 +54,7 @@ server:
     enabled: false
     allowedOrigin: '*'
 authorization:
-  anonRead: true
+  anonRead: false
   validMatches: .+
   emptyEmailMatches: false
 pages:
