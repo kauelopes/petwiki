@@ -1,4 +1,5 @@
 ## Páginas
+* [[Home|PET Wiki]]
 * [[Quadro de Avisos]]
 * [[Challenge]]
 * [[Idosos]]
