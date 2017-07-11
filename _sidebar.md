@@ -1,11 +1,14 @@
-## Índice
+## Páginas
+* [[Quadro de Avisos]]
 * [[Challenge]]
 * [[Idosos]]
 * [[Codifique]]
-* [[Membros]]
+* [[Codifique Kids]]
 * [[Horários dos projetos]]
 * [[Histórias]]
 * [[Sala do PET]]
+* [[Membros]]
+* [[Cronograma do semestre]]
 * [[Como Usar o Wiki|comofas]]
 
 
